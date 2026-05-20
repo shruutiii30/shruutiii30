@@ -20,12 +20,12 @@ I'm a passionate **Data Analyst** and **AI/ML Engineer** who loves turning compl
 
 | | |
 |---|---|
-| 🔭 **Building** | RAG-based AI systems · Intelligent Business Assistants · AI workflow automation with **n8n** · Analytics dashboards |
+| 🔭 **Building** | RAG-based AI systems · Intelligent Business Assistants · Analytics dashboards |
 | 📊 **Analytics** | Data Cleaning · EDA · Dashboarding · KPI Tracking · Data Visualization · Predictive Analytics |
 | 🌱 **Learning** | LangChain · LangGraph · FastAPI · LLM Orchestration · Vector Databases · Analytics Engineering |
-| 👯 **Collaborate** | AI/ML projects · Data Analytics · Open-source AI tooling · Business Intelligence |
+| 👯 **Collaborate** | AI/ML projects · Data Analytics · Business Intelligence |
 | 🤝 **Seeking Help** | Advanced AI system design · Scalable backend architecture · Production deployment |
-| 💬 **Ask Me About** | Python · SQL · Machine Learning · Power BI · RAG Systems · AI Automation · REST APIs |
+| 💬 **Ask Me About** | Python · SQL · Machine Learning · RAG Systems · AI Automation · REST APIs |
 | ⚡ **Fun Fact** | I enjoy transforming raw data and complex AI ideas into real-world intelligent solutions 🚀 |
 
 ---
@@ -35,8 +35,6 @@ I'm a passionate **Data Analyst** and **AI/ML Engineer** who loves turning compl
 **👨‍💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **📊 Data Analytics & Visualization**
 
@@ -50,12 +48,11 @@ I'm a passionate **Data Analyst** and **AI/ML Engineer** who loves turning compl
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**⚙️ Backend & Databases**
+
+**⚙️ Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 **🛠️ Tools & Automation**
@@ -86,7 +83,7 @@ I'm a passionate **Data Analyst** and **AI/ML Engineer** who loves turning compl
 | 🤖 **Intelligent Business Assistant** | AI-powered assistant for business process automation | Python · LangChain · FastAPI |
 | 📚 **RAG Knowledge Base** | Retrieval-Augmented Generation system over private documents | LangGraph · MongoDB · OpenAI |
 | 📊 **Analytics Dashboard** | Interactive KPI tracking & business insights dashboard | Python · Power BI · SQL |
-| ⚙️ **AI Workflow Automator** | End-to-end automation pipelines using n8n + LLMs | n8n · Python · REST APIs |
+
 
 ---
 
